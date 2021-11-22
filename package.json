@@ -1,0 +1,14 @@
+{
+  "name": "connectis",
+  "version": "1.0.0",
+  "description": "Casos de Prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run"
+  },
+  "author": "Tomas M",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
